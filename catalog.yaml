@@ -6,6 +6,8 @@ metadata:
   tags:
     - dotnet
     - edgeos
+  annotations:
+    github.com/project-slug: 'szechuan-org/opentelemetry-poc'
 spec:
   type: service
   lifecycle: production
